@@ -122,7 +122,7 @@ We work across a wide spectrum of domains. Our projects span:
 
 ```bash
 # 1. Explore our repositories
-https://github.com/GLAU-Datum
+https://github.com/Datum-GLAU
 
 # 2. Pick an issue labeled "good first issue" or "help wanted"
 
